@@ -115,25 +115,27 @@ Explainable ML for electric motor bearing fault diagnosis under varying operatin
 
 ---
 
-### 🏆 `$ git achievements`
+
+---
+
+### 📈 `$ git status`
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Dashin-sanjana&theme=algolia&no-frame=true&margin-w=10&row=1" alt="GitHub trophies" />
+**Building, Learning & Improving Every Day**
+
+![GitHub Followers](https://img.shields.io/github/followers/Dashin-sanjana?style=for-the-badge&logo=github&color=238636)
+
+![GitHub Stars](https://img.shields.io/github/stars/Dashin-sanjana?style=for-the-badge&logo=github&color=238636)
+
+<br/>
+
+[![View Contributions](https://img.shields.io/badge/View_My_Contributions-238636?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dashin-sanjana)
 
 </div>
 
 ---
 
-### 📈 `$ git activity`
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Dashin-sanjana&theme=github-compact&hide_border=true&area=true" width="100%" alt="Contribution activity graph" />
-
-</div>
-
----
 
 ### 🤝 `$ connect --with-me`
 
